@@ -1,0 +1,51 @@
+
+body, html{
+    margin-top: 1%;
+}
+header {
+    text-align: center;
+}
+
+.title {
+    font-size: 300%;
+    font-weight: bold;
+}
+
+.links{
+    text-align: center;
+}
+.links a {
+    padding: 1%;
+}
+ul,  h2 {
+    margin: 0px;
+}
+
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 600px;
+    margin: auto;
+    height: auto;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.images{
+    text-align: center;
+    border: 1px solid black;
+    padding: 0.5%;
+    margin: 0.5%;
+}
