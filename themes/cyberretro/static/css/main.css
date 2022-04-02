@@ -19,7 +19,10 @@ hr {
     }
 }
 
-
+ul {
+    list-style-type: lower-greek;
+    list-style-position: inside;
+}
 .main-wrapper {
     display: flex;
     min-height: 100vh;
