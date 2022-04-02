@@ -18,6 +18,6 @@ theme = "cyberretro"
     url = "/projects/"
     weight = 2
     [[menu.main]]
-    name = "About me"
-    url = "/about/"
+    name = "Blog"
+    url = "/posts/"
     weight = 3

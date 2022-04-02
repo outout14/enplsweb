@@ -1,18 +1,10 @@
 {{ define "main" }}
-<div id="home-jumbotron" class="jumbotron text-center">
-    <h1 class="title"></h1>
+<div>
+    <div class="section-title title">
+        <h2>{{ .Title }}</h2>
+    </div>
 </div>
 
-<p>It's kinda empty right now...  Maybe you want to know more <a href="/about">about me</a> !</p>
-<hr>
-<p>Here you can discover what I write when I have time :</p>
-{{ range where site.RegularPages "Type" "posts"  }}
-<article class="list-container">
-    <h3 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    <span class="category-list-item-name float-right">
-        {{ partial "metadata.html" . }}
-    </span>
-</article>
-{{ end }}
+{{ .Content }}
 
 {{ end }}
