@@ -1,0 +1,18 @@
+<div class="nav-container">
+    <div class="navbar-title">
+        <h1 class="enpls-title">{{ .Site.Title }}</h1>
+        <p>{{- .Site.Params.Description -}}</p>
+    </div>
+    <nav class="navbar">
+        <ul>
+            {{ range .Site.Menus.main }}
+            <li class="nav-link">
+                <a href="{{ .URL }}">
+                    {{- $text := print .Name | safeHTML -}}
+                    {{- $text -}}
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
+</div>
