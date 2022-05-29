@@ -25,6 +25,5 @@ Anycasted DNS servers and a NAT64 runs on it.
 - Telegram : [@outout14](https://t.me/outout14)
 - LinkedIn : [@maelgramain](https://linkedin.com/in/maelgramain/)
 - GitHub : [@outout14](https://github.com/outout14)
-- GPG : [Public key](https://cdn.enpls.org/maelgramain.key)
-- SSH : [Public keychain](https://cdn.enpls.org/ssh-keys.txt)
+- SSH : [Public keychain](https://cdn.enpls.org/files/ssh-keys.txt)
 
