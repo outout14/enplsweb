@@ -10,6 +10,7 @@ draft: false
 - [AS213253](https://network.enpls.org): Operating AS213253 on the DFZ since May 2020.
 - [SacrebleuDNS](https://github.com/outout14/sacrebleu-dns): An authoritative DNS server made in Go with REDIS + SQL database (lacks DNSSEC, TSIG and IXFR support)
 - [libknot-go](https://github.com/outout14/libknot): Golang Interface for the Knot Authoritative DNS server daemon.
+- [frite](https://github.com/outout14/frite): A simple text file based url shortener made in Go
 - _In Progress: Websocket based looking glass in Golang_
 
 ---
