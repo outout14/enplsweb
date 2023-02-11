@@ -6,15 +6,17 @@ draft: false
 
 ### Me_irl
 
-I am currently studying in Mathematics and Physics/Chemistry. I am currently living in Guadeloupe, France and speak French, Creole, English, Spanish and a little bit of German.
+{{< figure src="/moi.png" class="photo" >}} 
+I am currently doing a bachelor's degree in Networking and Telecommunications in France in apprenticeship as an network engineer / SRE at a French cloud provider. I am currently living in Rennes, France. 
 
-Actively involved in the Open Source and the associative sector, I write Golang and Python software, do network administration ([@AS213253](https://network.enpls.org)) and GNU/Linux system administration ([@GnousEU](https://gnous.eu/) & [@MilkyWan](https://milkywan.fr)).
+Actively involved in the Open Source and the associative sector, I write Golang and Python software, do network administration ([@AS213253](https://enpls.org)) and GNU/Linux system administration [@GnousEU](https://gnous.eu/) (and previously [@MilkyWan](https://milkywan.fr)).
+
 
 --- 
 
 ### AS213253
 AS213253 is a IPv6 only ASN that provides Internet connectivity to me and some _other people_. This allows me to improve my skills in OSPF6, BGP-4 and network administration in general.
-I announce 3 /48 IPv6 blocks. I don't have upstreams behind tunnels. The network main P.O.P.s are in New Jersey, USA; Montreal, CA; Dronten, NL; Paris, FR.
+I announce 1 /48 IPv6 block. I don't have upstreams behind tunnels. The network main P.O.P.s are in Dronten, NL and Paris, FR.
 Anycasted DNS servers and a NAT64 runs on it.
 
 --- 
