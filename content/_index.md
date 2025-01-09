@@ -7,7 +7,7 @@ draft: false
 ### Me_irl
 
 {{< figure src="/moi.png" class="photo" >}} 
-I am currently doing a bachelor's degree in Networking and Telecommunications in France in apprenticeship as an network engineer / SRE at a French cloud provider. I am currently living in Rennes, France. 
+I am currently doing an engineering degree in computer science, electronics and telecommunications in France in apprenticeship as an network engineer / SRE at a French cloud provider. I am currently living in Rennes, France. 
 
 Actively involved in the Open Source and the associative sector, I write Golang and Python software, do network administration ([@AS213253](https://enpls.org)) and GNU/Linux system administration [@GnousEU](https://gnous.eu/) (and previously [@MilkyWan](https://milkywan.fr)).
 
