@@ -16,7 +16,7 @@ Actively involved in the Open Source and the associative sector, I write Golang 
 
 ### AS213253
 AS213253 is a IPv6 only ASN that provides Internet connectivity to me and some _other people_. This allows me to improve my skills in OSPF6, BGP-4 and network administration in general.
-I announce 1 /48 IPv6 block. I don't have upstreams behind tunnels. The network main P.O.P.s are in Dronten, NL and Paris, FR.
+I announce 1 /40 IPv6 block. All upstreams are physically connected. The network main POPs are in Amsterdam, NL and Paris, FR.
 Anycasted DNS servers and a NAT64 runs on it.
 
 --- 
